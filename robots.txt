@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://mirajshah12.github.io/sitemap.xml
