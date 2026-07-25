@@ -6,4 +6,3 @@ related_posts: false
 ---
 
 Welcome to my new personal website and Data Science portfolio!
-
