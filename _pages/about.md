@@ -30,3 +30,5 @@ Welcome to my personal website! I am **Miraj Shah**, a **Data Scientist** passio
 Here you can explore my data science projects, read insights on machine learning and analytics, check out my CV, and view my open-source repositories on GitHub.
 
 Feel free to explore my portfolio and reach out if you'd like to collaborate or connect!
+
+
