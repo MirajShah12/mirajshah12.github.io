@@ -1,19 +1,23 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Miraj Shah",
+    "label": "Data Scientist",
     "image": "",
-    "email": "einstein@example.com",
-    "phone": "(912) 123-4567",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "",
+    "phone": "",
+    "summary": "Data Scientist passionate about machine learning, predictive modeling, data visualization, and building intelligent data-driven applications.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "city": "",
+      "region": "",
+      "countryCode": "US"
     },
-    "profiles": []
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "mirajshah12",
+        "url": "https://github.com/mirajshah12"
+      }
+    ]
   },
   "work": [
     {
