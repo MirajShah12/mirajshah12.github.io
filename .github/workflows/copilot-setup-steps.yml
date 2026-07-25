@@ -52,7 +52,7 @@ jobs:
 
       - name: Install Python dependencies
         run: |
-          pip3 install --upgrade nbconvert
+          pip3 install --upgrade nbconvert --break-system-packages
 
       - name: Install Node.js dependencies
         run: npm ci
