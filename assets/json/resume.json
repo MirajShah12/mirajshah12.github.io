@@ -3,7 +3,7 @@
     "name": "Miraj Shah",
     "label": "Data Scientist",
     "image": "",
-    "email": "",
+    "email": "mirajkshah@outlook.com",
     "phone": "",
     "summary": "Data Scientist passionate about machine learning, predictive modeling, data visualization, and building intelligent data-driven applications.",
     "location": {
@@ -16,6 +16,11 @@
         "network": "GitHub",
         "username": "mirajshah12",
         "url": "https://github.com/mirajshah12"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "miraj-shah12",
+        "url": "https://linkedin.com/in/miraj-shah12"
       }
     ]
   },

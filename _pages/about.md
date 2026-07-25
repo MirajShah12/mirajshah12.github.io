@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: Data Scientist & Machine Learning Specialist
+subtitle: Data Scientist & Sports Analytics Specialist
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.jpg # Upload your profile picture to assets/img/prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>Data Scientist</p>
@@ -25,10 +25,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Welcome to my personal website! I am **Miraj Shah**, a **Data Scientist** passionate about machine learning, data analysis, predictive modeling, and building intelligent data-driven applications.
+Welcome to my personal website! I am **Miraj Shah**, a **Data Scientist** specializing in machine learning, predictive modeling, and sports analytics / sabermetrics.
 
-Here you can explore my data science projects, read insights on machine learning and analytics, check out my CV, and view my open-source repositories on GitHub.
+Here you can explore my projects in MLB projections, SAP softball analytics, automated strike-zone modeling, and machine learning, check out my CV/resume, and view my open-source repositories on GitHub.
 
-Feel free to explore my portfolio and reach out if you'd like to collaborate or connect!
-
-
+To upload your profile picture, place your photo at `assets/img/prof_pic.jpg`.

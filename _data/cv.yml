@@ -1,7 +1,7 @@
 cv:
   name: Miraj Shah
   label: Data Scientist
-  email: ""
+  email: mirajkshah@outlook.com
   location: ""
   image: ""
   summary: Data Scientist passionate about machine learning, predictive modeling, data visualization, and building intelligent data-driven applications.
@@ -9,6 +9,8 @@ cv:
   social_networks:
     - network: GitHub
       username: mirajshah12
+    - network: LinkedIn
+      username: miraj-shah12
 
   address:
     street: 2712 Broadway St

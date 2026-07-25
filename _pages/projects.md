@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: A collection of projects in sabermetrics, predictive projections, analytics, and machine learning.
 nav: true
-nav_order: 3
-display_categories: [work, fun]
+nav_order: 2
+display_categories: [sabermetrics, projections, analytics, machine learning]
 horizontal: false
 ---
 
